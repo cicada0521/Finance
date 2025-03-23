@@ -41,16 +41,16 @@ To run these notebooks, you’ll need the following:
   pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
 
 ### Installation
-Clone this repository:
-git clone https://github.com/your-username/finance-projects.git
+- Clone this repository:
+`git clone https://github.com/your-username/finance-projects.git`
 
-Navigate to the repository folder:
-cd finance-projects
+- Navigate to the repository folder:
+`cd finance-projects`
 
-Launch Jupyter Notebook:
+- Launch Jupyter Notebook:
 jupyter notebook
 
-Open any .ipynb file to explore the project.
+- Open any .ipynb file to explore the project.
 
 ### Usage
 Each notebook is self-contained with code, explanations, and sample outputs. Modify the datasets or parameters as needed to suit your use case. Datasets used in these projects (if any) are either synthetic or publicly available—refer to the notebooks for details.
@@ -59,7 +59,7 @@ Each notebook is self-contained with code, explanations, and sample outputs. Mod
 Feel free to fork this repository, submit pull requests, or open issues for bugs and feature suggestions. Contributions are welcome!
 
 ### License
-This project is licensed under the MIT License (LICENSE) — see the LICENSE file for details.
+This project is licensed under the **MIT License (LICENSE)** — see the LICENSE file for details.
 
 ### Acknowledgments
 Built with inspiration from real-world financial data challenges.
